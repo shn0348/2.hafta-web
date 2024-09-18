@@ -1,0 +1,12 @@
+1- Sıralı listede start anlat.
+2- Sıralı listede Reversed anlat.
+3- U5 yap
+4- U6 yaptır.
+5- Tanımlı(açıklamalı) listeyi anlat.
+6- U7 yap.
+7- U8 yaptır.
+8- İç içe listeleri anlat.
+9- U9 yap
+10- U10 Yaptır- Yap
+11- U11 yaptır- Yap
+

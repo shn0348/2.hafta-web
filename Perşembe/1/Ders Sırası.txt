@@ -1,0 +1,12 @@
+1- Not'u tekrar et
+2- U1 yaptır.
+3- Modülden Listeleri anlat(Tahtaya yaz)
+4- Sırasız Listeyi anlat.(U2 yaparak)
+5- U3 yaptır.
+6- Sıralı listeyi anlat. (Ayları kullanarak)
+7- U4 yaptır.
+8- Listeleme Type özelliğini anlat.
+9- U5 yaptır.
+10- U6 yaptır.
+
+
