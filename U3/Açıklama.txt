@@ -1,0 +1,7 @@
+İşlem Basamakları
+1- Uygulama klasörünün içerisine uygulama3 adında html sayfası açınız.
+2- Temel html komutlarını ekleyiniz.
+3- Word dosyasını(Metinler adında) kullanarak Paragrafları kopyala yapıştır yaparak Html sayfayına ekleyiniz.
+4- Html sayfasında eklediğiniz metni parafraf yapınız.(3 Tane paragraf)
+5- U3-yapılacak resmini açarak paragrafları metin biçimledirmesini yapınız
+   (kalın, Eğik, Altı çizili, İşaretli)
